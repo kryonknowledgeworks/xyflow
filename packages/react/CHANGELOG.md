@@ -1,5 +1,15 @@
 # @xyflow/react
 
+## 12.3.6
+
+### Patch Changes
+
+- [#4846](https://github.com/xyflow/xyflow/pull/4846) [`75017939`](https://github.com/xyflow/xyflow/commit/7501793900fdb125fe906fa3d9d83f1bd11c6e20) Thanks [@moklick](https://github.com/moklick)! - Make it possible to use expandParent with immer and other immutable helpers
+
+- [#4844](https://github.com/xyflow/xyflow/pull/4844) [`6f11e552`](https://github.com/xyflow/xyflow/commit/6f11e552c3f51b5931b98d5ff798156cdb8cc2d9) Thanks [@moklick](https://github.com/moklick)! - Allow custom data-testid for ReactFlow component
+
+- [#4816](https://github.com/xyflow/xyflow/pull/4816) [`43aa52a8`](https://github.com/xyflow/xyflow/commit/43aa52a8cd93e6a01c01afa314c7036eb5b77131) Thanks [@moklick](https://github.com/moklick)! - Type isValidConnection prop correctly by passing EdgeType
+
 ## 12.3.5
 
 ### Patch Changes
